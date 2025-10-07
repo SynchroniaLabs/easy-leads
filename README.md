@@ -1,18 +1,18 @@
   <div align="center">
-    <a href="https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=google-maps-lead-finder&utm_content=logo">
+    <a href="https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=easy-leads&utm_content=logo">
       <img src="./assets/synchronia-logo-4k-circle-2-white.png" alt="SynchronIA Logo" width="150">
     </a>
   </div>
 
-# 🗺️ Google Maps Lead Finder
+# 🗺️ Easy Leads
 
 **Un outil d'automatisation professionnel pour l'extraction de données Google Maps**
 
-*Développé par [SynchronIA](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=google-maps-lead-finder&utm_content=tagline) - Experts en RPA, Intelligence Artificielle et Automatisation*
+*Développé par [SynchronIA](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=easy-leads&utm_content=tagline) - Experts en RPA, Intelligence Artificielle et Automatisation*
 
 ---
 
-<!-- ![Démonstration du Google Maps Lead Finder](./assets/demo.gif)
+<!-- ![Démonstration d'Easy Leads](./assets/demo.gif)
 *Placeholder pour GIF : Démonstration complète de l'utilisation de l'outil* -->
 
 ## 📋 Table des Matières
@@ -30,7 +30,7 @@
 
 ## 🎯 Objectifs
 
-Ce **Google Maps Lead Finder** est un outil d'automatisation RPA (Robotic Process Automation) conçu pour extraire efficacement les informations commerciales depuis Google Maps. Il permet aux professionnels, marketeurs et entrepreneurs de :
+**Easy Leads** est un outil d'automatisation RPA (Robotic Process Automation) conçu pour extraire efficacement les informations commerciales depuis Google Maps. Il permet aux professionnels, marketeurs et entrepreneurs de :
 
 - **Générer des listes de prospects qualifiés** en quelques clics
 - **Automatiser la collecte de données commerciales** (nom, adresse, téléphone, site web, avis)
@@ -68,7 +68,7 @@ Ce **Google Maps Lead Finder** est un outil d'automatisation RPA (Robotic Proces
 
 ## 🖥️ Interface Utilisateur
 
-![Interface utilisateur du Google Maps Lead Finder](./assets/GUI_example.png)
+![Interface utilisateur d'Easy Leads](./assets/GUI_example.png)
 
 L'interface propose :
 - **Champ de recherche** : Saisissez votre requête (ex: "restaurants", "coiffeurs")
@@ -96,8 +96,8 @@ Le fichier Excel généré contient :
 
 ```bash
 # 1. Clonez le repository
-git clone https://github.com/votre-username/google-maps-lead-finder.git
-cd google-maps-lead-finder
+git clone https://github.com/SynchroniaLabs/easy-leads.git
+cd easy-leads
 
 # 2. Créez un environnement virtuel (recommandé)
 python -m venv venv
@@ -219,7 +219,7 @@ SynchronIA décline toute responsabilité quant à l'utilisation de cet outil en
 
 ### 🚀 Votre Partenaire en Automatisation
 
-[**SynchronIA**](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=google-maps-lead-finder&utm_content=about) est une entreprise spécialisée dans l'**automatisation intelligente** et l'**intelligence artificielle** pour les entreprises. Nous aidons nos clients à :
+[**SynchronIA**](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=easy-leads&utm_content=about) est une entreprise spécialisée dans l'**automatisation intelligente** et l'**intelligence artificielle** pour les entreprises. Nous aidons nos clients à :
 
 #### 🤖 RPA (Robotic Process Automation)
 - **Automatisation de processus métier** répétitifs
@@ -257,7 +257,7 @@ SynchronIA décline toute responsabilité quant à l'utilisation de cet outil en
 
 **Besoin d'automatiser vos processus métier ?**
 
-- **🌐 Site web** : [synchronia.fr](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=google-maps-lead-finder&utm_content=contact)
+- **🌐 Site web** : [synchronia.fr](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=easy-leads&utm_content=contact)
 - **📧 Email** : contact@synchronia.fr
 - **💬 Consultation gratuite** : Analysons ensemble vos besoins d'automatisation
 
@@ -293,7 +293,7 @@ Ce projet est **open source** pour démontrer nos compétences techniques. Les c
 
 ---
 
-**Développé avec ❤️ par l'équipe [SynchronIA](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=google-maps-lead-finder&utm_content=footer)**
+**Développé avec ❤️ par l'équipe [SynchronIA](https://synchronia.fr?utm_source=github&utm_medium=readme&utm_campaign=easy-leads&utm_content=footer)**
 
 *Automatisation • Intelligence Artificielle • Innovation*
 
